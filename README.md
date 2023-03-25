@@ -46,10 +46,10 @@ cd mvc-tech-blog
 
 4. Create a .env file in the root directory and add your MySQL credentials:
 
- DB_NAME='mvc_tech_blog_db'
- DB_USER='your_mysql_username'
- DB_PASSWORD='your_mysql_password'
- SESSION_SECRET='your_session_secret'
+ * DB_NAME='mvc_tech_blog_db'
+ * DB_USER='your_mysql_username'
+ * DB_PASSWORD='your_mysql_password'
+ * SESSION_SECRET='your_session_secret'
 
 5. Create the database using the schema provided in the db folder.
 6. Seed the database with sample data (optional):
