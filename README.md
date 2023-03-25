@@ -34,7 +34,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/[Your GitHub Username]/mvc-tech-blog.git
+git clone https://github.com/https://github.com/itsamish01/MVCTechBlogg
 
 2. Change into the project directory:
 
