@@ -1,0 +1,83 @@
+
+
+/* reset default margin, padding and box-sizing */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* set background color and full height for body */
+body {
+    height: 100vh;
+    background-color: azure;
+}
+
+/* style for header and h1 */
+header, h1 {
+    background-color: #355C7D; /* set background color */
+    padding: 10px; /* add padding */
+    color: white !important; /* set text color and prioritize over other styles */
+}
+
+/* style for header links */
+header a {
+    margin: 10px; /* add margin */
+    padding: 5px; /* add padding */
+    color: white !important; /* set text color and prioritize over other styles */
+}
+
+/* style for card title */
+.card-title {
+    background-color: #355C7D; /* set background color */
+    color: white; /* set text color */
+    padding: 5px; /* add padding */
+}
+
+/* style for card */
+.card {
+    background-color: azure; /* set background color */
+}
+
+/* style for card text */
+.card h5, .card p {
+    color: black; /* set text color */
+    font-style: normal; /* set font style */
+}
+
+/* style for button */
+button {
+    padding: 3px; /* add padding */
+    margin: 5px; /* add margin */
+}
+
+/* style for new post form */
+#newpost {
+    display: flex; /* set display type to flex */
+    justify-content: center; /* center horizontally */
+    margin-top: 20px; /* add margin top */
+}
+
+/* style for content inputs */
+#content, #editedContent {
+    margin-left: 10vw; /* add margin left */
+    margin-right: 10vw; /* add margin right */
+}
+
+/* style for create, update, and delete buttons */
+#create, #update, #delete {
+    margin-left: 30vw; /* add margin left */
+    margin-right: 30vw; /* add margin right */
+    margin-top: 20px; /* add margin top */
+}
+
+/* style for comment input */
+#comment {
+    width: 80vw; /* set width */
+    margin-top:20px; /* add margin top */
+}
+
+/* style for title inputs */
+#title, #editedTitle {
+    width: 80vw; /* set width */
+}
