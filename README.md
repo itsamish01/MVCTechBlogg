@@ -2,6 +2,12 @@
 
 Welcome to my MVC Tech Blog repository! This project is a full-stack web application built using the Model-View-Controller (MVC) architectural pattern. The purpose of this blog is to share my knowledge, insights, and experiences with various technologies and programming concepts. Feel free to explore, contribute, and learn along with me.
 
+## Screenshot
+![Screenshot 2023-03-25 at 6 09 58 PM](https://user-images.githubusercontent.com/114682284/227746693-2bdb5ff3-313f-4cf0-9cff-d6ae6618eaea.png)
+
+
+## Link to Deployed Page: https://mvctechblogg.herokuapp.com/
+
 ## Table of Contents
 * Features
 * Technologies Used
